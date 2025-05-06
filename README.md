@@ -12,4 +12,4 @@ Features included in Website :-
     ---> The security section in the website has a torch effect which follows and lights up text with the movement of the mouse.
     ---> The footer consists of drop down menus for more information.
 
-4) The CSS design is kept very minimalistic with dark theme. The Website is 100% compatible with all screen sizes.
+4> The CSS design is kept very minimalistic with dark theme. The Website is 100% compatible with all screen sizes.

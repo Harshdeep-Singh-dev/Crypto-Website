@@ -1,4 +1,6 @@
 # Crypto-Website
+
+LIVE PREVIEW :- https://harshdeep-singh-dev.github.io/Crypto_V2/
 A UI/UX oriented cryptocurrency trading and investing website layout aimed to streamline buying crypto currency and introduce masses to web3 technologies.
 
 Features included in Website :- 
